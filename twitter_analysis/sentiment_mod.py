@@ -6,10 +6,10 @@ import matplotlib.pyplot as plt
 
 class TwitterClient(object):
    def __init__(self):
-      consumer_key = '9xhDXeOzwsZ0dpuzV2q76yzSE'
-      consumer_secret = 'lxdQ3rtVKEHEMDiflBETQWqXKHRYJj3gQeS28NCHKx2V8zzx8R'
-      access_token = '1082249754472374272-C8CWU3h6zNZrTjavuw6bRBUZiE7buU'
-      access_token_secret = '5iKhHg7cCZ7r3N3n3f2wesQY0VYwSJ86BD4Erck1WTJAU'
+      consumer_key = 'xxxxxxxxxxxxxxxxxxxx'
+      consumer_secret = 'xxxxxxxxxxxxxxxxxxxx'
+      access_token = 'xxxxxxxxxxxxxxxxxxxx'
+      access_token_secret = 'xxxxxxxxxxxxxxxxxxxx'
 
       try:
          # create OAuthHandler object
